@@ -1,0 +1,9 @@
+C:\Projects\stacketst\stacketst\bin\Debug\stacketst.exe.config
+C:\Projects\stacketst\stacketst\bin\Debug\stacketst.exe
+C:\Projects\stacketst\stacketst\bin\Debug\stacketst.pdb
+C:\Projects\stacketst\stacketst\obj\Debug\stacketst.csprojResolveAssemblyReference.cache
+C:\Projects\stacketst\stacketst\obj\Debug\stacketst.exe
+C:\Projects\stacketst\stacketst\obj\Debug\stacketst.pdb
+D:\win-backup\Projects\stacketst\stacketst\bin\Debug\stacketst.exe.config
+D:\win-backup\Projects\stacketst\stacketst\obj\Debug\stacketst.exe
+D:\win-backup\Projects\stacketst\stacketst\obj\Debug\stacketst.pdb
